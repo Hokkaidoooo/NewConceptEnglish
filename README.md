@@ -1,5 +1,21 @@
 # 新概念学习笔记分享
 
+[简体中文](README.md) · [English](README.en.md) · [Español](README.es.md) · [日本語](README.ja.md)
+
+## 按册浏览
+
+这是 [andylee1890 的学习笔记仓库](https://github.com/andylee1890/NewConceptEnglish)的 fork，收录第 2 至第 4 册的学习资料。用 GitHub 打开目录或笔记索引即可查看文件清单，无需安装本项目。PDF 或 Word 文件可用相应阅读器打开；以目录内实际文件为准。
+
+| 册别 | 学习入口 |
+| --- | --- |
+| [第 2 册](NCE2/) | 浏览已有 PDF 和文本笔记，练习按时间顺序复述短文。 |
+| [第 3 册](NCE3/README.md) · [文件目录](NCE3/) | 按课号找笔记，练习概括段落和改写句子。 |
+| [第 4 册](NCE4/README.md) · [文件目录](NCE4/) | 按课号找笔记，练习提炼观点、辨别论据。 |
+
+建议先用正版教材或授权音频读听一遍，再合上原文复述，用笔记核对漏掉的要点。交流学习方法可去[上游讨论区](https://github.com/andylee1890/NewConceptEnglish/discussions)。仓内有 [GPL v3 许可文件](LICENSE.txt)，不能据此推定第三方教材、译文、音视频或练习材料也获准再分发，请以各材料的授权为准。
+
+## 上游原有学习笔记与资源列表
+
 本人是从2册开始学习的，学习过程中也整理和记录的一个有意义的学习资料，在此分享出来。
 
 大家也可以在本项目的[discussions](https://github.com/andylee1890/NewConceptEnglish/discussions)讨论区分享交流英语学习经验。
